@@ -30,7 +30,6 @@ This project implements a compact, dual-channel sensing and communication platfo
 * 👤 **Israt Jahan**
 * 👤 **Moumita Samadder**
 
----
 
 🏛️ **Department of Electrical and Electronic Engineering**
 🎓 **IUBAT — International University of Business Agriculture and Technology**
