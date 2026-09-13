@@ -30,6 +30,10 @@ This project implements a compact, dual-channel sensing and communication platfo
 * 👤 **Moumita Samadder**
 
 ---
+🏛️ **Department of Electrical and Electronic Engineering**
+🎓 **IUBAT — International University of Business Agriculture and Technology**
+📍 Dhaka, Bangladesh
+---
 
 ## ✨ Features
 
@@ -187,13 +191,6 @@ The small errors are mainly attributed to:
 * ☀️ Add a solar-powered supply for field deployment.
 * 🤖 Implement machine-learning-based classification to distinguish transient disturbances from sustained faults.
 * 🌍 Expand the system for larger smart-grid monitoring applications.
-
----
-
-
-🏛️ **Department of Electrical and Electronic Engineering**
-🎓 **IUBAT — International University of Business Agriculture and Technology**
-📍 Dhaka, Bangladesh
 
 ---
 
