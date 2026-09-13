@@ -21,6 +21,7 @@ This project implements a compact, dual-channel sensing and communication platfo
 🧪 In lab testing, all five targeted fault categories were detected reliably with correct section-level localization.
 
 ---
+
 ## 👨‍💻 Authors
 
 * 👤 **M. Shoyab Sadik**
@@ -30,9 +31,11 @@ This project implements a compact, dual-channel sensing and communication platfo
 * 👤 **Moumita Samadder**
 
 ---
+
 🏛️ **Department of Electrical and Electronic Engineering**
 🎓 **IUBAT — International University of Business Agriculture and Technology**
 📍 Dhaka, Bangladesh
+
 ---
 
 ## ✨ Features
